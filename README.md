@@ -5,4 +5,5 @@ mam na imię Zosia i stawiam pierwsze kroki w testowaniu manualnym.
 <br>
 <br>
 Zapraszam do mojego repozytorium, gdzie znajduje się przygotowany przeze mnie: 
-- plan testów, w tym: harmonogram testów (wykonany w MS Project), kilka przypadków testowych (wykonanych w TestLink) oraz przykładowy raport błędu (wykonany w Jira). 
+- harmonogram testów (wykonany w MS Project), kilka przypadków testowych (wykonanych w TestLink) oraz przykładowy raport błędu (wykonany w Jira), 
+- raport z wykonania testów w tym kilka przypadków testowych (wykonanych w TestLink) oraz przykładowy raport błędu (wykonany w Jira).
