@@ -9,5 +9,6 @@ Zapraszam do mojego repozytorium, gdzie znajduje się przygotowany przeze mnie:
 - <strong>raport z wykonania testów </strong>, w tym kilka przypadków testowych (wykonanych w TestLink) oraz przykładowy raport błędu (wykonany w Jira) </p>
  <i>plik -> "Raport z wykonania planu testów"</i></p>
 
-- w pliku <i>plik -> "MrBuggy-Functional-Specification"</i> znajduje się specyfikacja testowanej aplikacji. 
+- specyfikacja testowanej aplikacji </p>
 
+<i>plik -> "MrBuggy-Functional-Specification"</i>
