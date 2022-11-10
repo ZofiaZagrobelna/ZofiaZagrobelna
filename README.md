@@ -8,5 +8,5 @@ Zapraszam do mojego repozytorium, gdzie znajduje się przygotowany przeze mnie:
 - harmonogram testów (wykonany w MS Project) <i>plik -> "Harmonogram_MS_Project" </i></p>
 - raport z wykonania testów w tym kilka przypadków testowych (wykonanych w TestLink) oraz przykładowy raport błędu (wykonany w Jira) <i>plik -> "Raport z wykonania planu testów"</i></p>
 
-W pliku <i>plik -> "MrBuggy-Functional-Specification"</i></p> znajduje się specyfikacja testowanej aplikacji. 
+- w pliku <i>plik -> "MrBuggy-Functional-Specification"</i> znajduje się specyfikacja testowanej aplikacji. 
 
