@@ -6,8 +6,8 @@ mam na imię Zosia i stawiam pierwsze kroki w testowaniu manualnym.
 <br>
 Zapraszam do mojego repozytorium, gdzie znajduje się przygotowany przeze mnie: 
 - <strong>harmonogram testów </strong> (wykonany w MS Project)</p> <i>plik -> "Harmonogram_MS_Project" </i></p>
-- <strong>raport z wykonania testów </strong>, w tym kilka przypadków testowych (wykonanych w TestLink) oraz przykładowy raport błędu (wykonany w Jira) 
-</p> <i>plik -> "Raport z wykonania planu testów"</i></p>
+- <strong>raport z wykonania testów </strong>, w tym kilka przypadków testowych (wykonanych w TestLink) oraz przykładowy raport błędu (wykonany w Jira) </p>
+ <i>plik -> "Raport z wykonania planu testów"</i></p>
 
 - w pliku <i>plik -> "MrBuggy-Functional-Specification"</i> znajduje się specyfikacja testowanej aplikacji. 
 
