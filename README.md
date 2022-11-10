@@ -11,4 +11,4 @@ Zapraszam do mojego repozytorium, gdzie znajduje się przygotowany przeze mnie:
 
 - specyfikacja testowanej aplikacji </p>
 
-<i>plik -> "MrBuggy-Functional-Specification"</i>
+<i>plik -> "MrBuggy-Functional-Specification"</i></p>
