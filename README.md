@@ -10,5 +10,4 @@ Zapraszam do mojego repozytorium, gdzie znajduje się przygotowany przeze mnie:
  <i>plik -> "Raport z wykonania planu testów"</i></p>
 
 - specyfikacja testowanej aplikacji </p>
-
 <i>plik -> "MrBuggy-Functional-Specification"</i></p>
